@@ -46,4 +46,4 @@ CSS...
 
 ## Authors
 
-- [@mhistersax](https://github.com/mhistersax)
+- [@jaythecree8tor](https://github.com/jaythecree8tor)
