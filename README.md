@@ -9,39 +9,19 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
-
-
+I'm a creative frontend web developer
 
 
 # 🛠 Skills
-
 Javascript
+Html
+Css
+Sass
+Tailwind
+Bootstrap
+React
+Figma
 
-HTML
-
- C
-
-
- C#
-
-
- C++
-
-
- .NET
-
-
-Angular.js
-
-
-Node.js
-
-
-Python
-
-
-CSS...
 
 
 ## Authors
