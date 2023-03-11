@@ -38,4 +38,5 @@ Figma
 <div style="display: flex;">
   <img src="images/HTML5.svg" alt="" width="80" height="80">
   <img src="images/JAVASCRIPT.svg" alt="" width="80" height="80">
+  <img src="images/SAAS.svg" alt="" width="80" height="80">
 </div>
