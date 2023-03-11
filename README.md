@@ -38,7 +38,7 @@ Figma
 <div style="display: flex;">
   <img src="images/Group 85.svg" alt="" width="60" height="60">
   <!-- <img src="images/JAVASCRIPT.svg" alt="" width="80" height="80"> -->
-  <img src="images/Group 83.svg" alt="" width="60" height="60">
-  <img src="images/Group 68.svg" alt="" width="60" height="60">
+  <img src="images/Group 83.svg" alt="" width="60" height="60" style="margin-left: 2px;">
+  <img src="images/Group 68.svg" alt="" width="60" height="60" style="margin-left: 2px;">
   <!-- <img src="images/SAAS.svg" alt="" width="80" height="80"> -->
 </div>
