@@ -36,8 +36,9 @@ Figma
 
 ## Languages
 <div style="display: flex;">
-  <img src="images/HTML5.svg" alt="" width="80" height="80">
-  <img src="images/JAVASCRIPT.svg" alt="" width="80" height="80">
-  <img src="images/Group 83.svg" alt="" width="80" height="80">
-  <img src="images/SAAS.svg" alt="" width="80" height="80">
+  <img src="images/Group 85.svg" alt="" width="60" height="60">
+  <!-- <img src="images/JAVASCRIPT.svg" alt="" width="80" height="80"> -->
+  <img src="images/Group 83.svg" alt="" width="60" height="60">
+  <img src="images/Group 68.svg" alt="" width="60" height="60">
+  <!-- <img src="images/SAAS.svg" alt="" width="80" height="80"> -->
 </div>
