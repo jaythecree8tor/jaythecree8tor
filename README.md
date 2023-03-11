@@ -34,5 +34,5 @@ Figma
    Frontend Developer | Graphic Designer | A Creative
 ```
 <div class=" flex">
-  <img src="images/HTML5.svg" alt="" class=" w-1">
+  <img src="images/HTML5.svg" alt="" class=" w-20">
 </div>
