@@ -35,7 +35,7 @@ Figma
 ```
 
 ## Languages
-<div class=" flex">
-  <img src="images/HTML5.svg" alt="" class=" w-20">
-  <img src="images/JAVASCRIPT.svg" alt="" class=" w-20">
+<div style="display: flex;">
+  <img src="images/HTML5.svg" alt="" width="80" height="80">
+  <img src="images/JAVASCRIPT.svg" alt="" width="80" height="80">
 </div>
