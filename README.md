@@ -33,6 +33,8 @@ Figma
 ```bash
    Frontend Developer | Graphic Designer | A Creative
 ```
+
+## Languages
 <div class=" flex">
   <img src="images/HTML5.svg" alt="" class=" w-20">
 </div>
