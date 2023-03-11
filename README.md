@@ -27,7 +27,7 @@ Figma
 ## Authors
 
 - [@jaythecree8tor](https://github.com/jaythecree8tor) -->
-![head](https://www.linkpicture.com/q/github-banner_4.png)
+![head](https://www.linkpicture.com/q/github-banner_5.png)
 
 ## Who is jordan?🤔
 ```bash
