@@ -17,9 +17,9 @@
 ## Frameworks/Libraries
 <div style="display: flex;">
   <img src="images/REACT.svg" alt="" width="60" height="60">
-  <img src="images/Vector (1).svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/TAILWIND.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 65.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-  <img src="images/Vector.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/BOOTSTRAP.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 78.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
