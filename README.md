@@ -37,4 +37,5 @@ Figma
 ## Languages
 <div class=" flex">
   <img src="images/HTML5.svg" alt="" class=" w-20">
+  <img src="images/JAVASCRIPT.svg" alt="" class=" w-20">
 </div>
