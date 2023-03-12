@@ -13,7 +13,7 @@
 - ⚡  -->
 
 
-## Languages
+## Languages i use
 <div style="display: flex;">
   <img src="images/HTML5.svg" alt="" width="60" height="60">
   <img src="images/Group 83.svg" alt="" width="60" height="60" style="margin-left: 6px;">
@@ -22,7 +22,7 @@
   <img src="images/SAAS.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
-## Frameworks/Libraries
+## Frameworks/Libraries i use
 <div style="display: flex;">
   <img src="images/REACT.svg" alt="" width="60" height="60">
   <img src="images/TAILWIND.svg" alt="" width="60" height="60" style="margin-left: 6px;">
@@ -31,7 +31,7 @@
   <img src="images/Group 78.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
-## Tools
+## Tools i use
 <div style="display: flex;">
   <img src="images/Group 74.svg" alt="" width="60" height="60">
   <img src="images/GITHUB.svg" alt="" width="60" height="60" style="margin-left: 6px;">
