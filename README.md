@@ -40,6 +40,3 @@
   <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
-## Stats
-![jaythecree8tor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaythecree8tor&theme=transparent&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaythecree8tor&layout=compact)
