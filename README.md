@@ -27,7 +27,7 @@
 <div style="display: flex;">
   <img src="images/Group 74.svg" alt="" width="60" height="60">
   <img src="images/GITHUB.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-  <img src="images/Group 65.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/Group 27.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/FIREBASE.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-  <img src="images/Group 78.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
