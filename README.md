@@ -4,12 +4,6 @@
 ```bash
    Frontend Developer | Graphic Designer | A Creative
 ```
-<div style="display: flex; justify-content: space-between;">
-    <div>
-
-    </div>
-<img src="images/shush.PNG" alt="" >
-</div>
 
 ### What is Jordan doing🧐
 - 🔭 With my current project, developers will be able to take notes and share them with other DEVS and the community. It would contain unique characteristics needed by a developer when taking notes....
