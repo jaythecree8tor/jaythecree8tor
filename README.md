@@ -5,12 +5,11 @@
    Frontend Developer | Graphic Designer | A Creative
 ```
 
-### What is Jordan doing🧐
+### What is Jordan up to🧐
 - 🔭 With my current project, developers will be able to take notes and share them with other DEVS and the community. It would contain unique characteristics needed by a developer when taking notes....
 - 💪 I'm searching for chances to learn, connect with others, and exchange ideas.
 - 🌱 I'm presently learning about full-stack web development.
-<!-- - 😄 
-- ⚡  -->
+- 🎮 You can catch me on call of duty@(noob_HUB) that's where i am when i take breaks 🤭
 
 
 ## Languages i use
@@ -39,4 +38,5 @@
   <img src="images/FIREBASE.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
+
 
