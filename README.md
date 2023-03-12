@@ -1,6 +1,6 @@
 ![head](https://www.linkpicture.com/q/github-banner_5.png)
 
-## Who is jordan?🤔
+## Who is Jordan?🤔
 ```bash
    Frontend Developer | Graphic Designer | A Creative
 ```
