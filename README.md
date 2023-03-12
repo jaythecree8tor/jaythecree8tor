@@ -4,7 +4,7 @@
 ```bash
    Frontend Developer | Graphic Designer | A Creative
 ```
-<img style="align-items: end;" alt="Coding" width="370" src="images/shush.PNG"/>
+
 ### What is Jordan doing🧐
 - 🔭 With my current project, developers will be able to take notes and share them with other DEVS and the community. It would contain unique characteristics needed by a developer when taking notes....
 - 💪 I'm searching for chances to learn, connect with others, and exchange ideas.
