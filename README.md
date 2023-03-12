@@ -6,17 +6,17 @@
 ```
 <div style="display: flex; justify-content: space-between;">
     <div>
-            ## What is Jordan doing🧐
+
+    </div>
+<img src="images/shush.PNG" alt="" >
+</div>
+
+## What is Jordan doing🧐
 - 🔭 With my current project, developers will be able to take notes and share them with other DEVS and the community. It would contain unique characteristics needed by a developer when taking notes....
 - 💪 I'm searching for chances to learn, connect with others, and exchange ideas.
 - 🌱 I'm presently learning about full-stack web development.
 - 😄 
 - ⚡ 
-    </div>
-<img src="images/shush.PNG" alt="" width="80" height="80">
-</div>
-
-
 
 
 ## Languages
