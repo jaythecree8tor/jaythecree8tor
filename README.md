@@ -1,13 +1,17 @@
 ![head](https://www.linkpicture.com/q/github-banner_5.png)
 
-## Who is jordan?🤔
+## Who is Jordan?🤔
 ```bash
 Frontend Developer | Graphic Designer | A Creative
 ```
 
 ### What is Jordan up to🧐
+<<<<<<< HEAD
 - 🔭 With my current project, developers will be able to take notes and share them with other DEVS and the community. It
 would contain unique characteristics needed by a developer when taking notes....
+=======
+- 🔭 With my current project, developers will be able to take notes and share them with other DEVS and the community. It would contain unique characteristics needed by a developer when taking notes....
+>>>>>>> 75e85697a00d7ecc8764212860d95902042637b1
 - 💪 I'm searching for chances to learn, connect with others, and exchange ideas.
 - 🌱 I'm presently learning about full-stack web development.
 - 🎮 You can catch me on call of duty @noob_HUB:) that's where i am when i take breaks 🤭
@@ -38,11 +42,17 @@ would contain unique characteristics needed by a developer when taking notes....
 
   [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/jaythecree8tor?tab=repositories)
 
-## Tools
+## Tools i use
 <div style="display: flex;">
   <img src="images/Group 74.svg" alt="" width="60" height="60">
   <img src="images/GITHUB.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 27.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/FIREBASE.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+<<<<<<< HEAD
 </div>
+=======
+</div>
+
+
+>>>>>>> 75e85697a00d7ecc8764212860d95902042637b1
