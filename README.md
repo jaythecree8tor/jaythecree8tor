@@ -2,7 +2,7 @@
 
 ## Who is Jordan?🤔
 ```bash
-Frontend Developer | Graphic Designer | A Creative
+Software Developer | User Experience Designer | A Creative
 ```
 
 ### What is Jordan up to🧐
@@ -55,6 +55,6 @@ Frontend Developer | Graphic Designer | A Creative
 
 </div>
 
-# Let's collaborate!!!
+# Let's collaborate!!! [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jaythecree8tor)
 
 
