@@ -27,6 +27,8 @@ Frontend Developer | Graphic Designer | A Creative
   <img src="images/Group 78.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 24.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
+
+
 ### **Design Tools**
 <div style=" display: flex;">
   <img src="images/Group 67.svg" alt="" width="60" height="60" style="margin-left: 6px;">
