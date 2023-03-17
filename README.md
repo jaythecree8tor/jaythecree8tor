@@ -40,12 +40,17 @@ Frontend Developer | Graphic Designer | A Creative
 
   [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/jaythecree8tor?tab=repositories)
 
+## Cloud
+<div style=" display: flex;">
+  <img src="images/FIREBASE.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/google-cloud-1.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+</div>
+
 ## Tools i use
 <div style="display: flex;">
   <img src="images/Group 74.svg" alt="" width="60" height="60">
   <img src="images/GITHUB.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 27.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-  <img src="images/FIREBASE.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 
 </div>
