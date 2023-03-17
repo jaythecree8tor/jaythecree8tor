@@ -12,17 +12,13 @@
 - 🎮 You can catch me on call of duty @noob_HUB:) that's where i am when i take breaks 🤭
 
 
-## Languages i use
+### **Web Development**
 <div style="display: flex;">
   <img src="images/HTML5.svg" alt="" width="60" height="60">
   <img src="images/Group 83.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/JAVASCRIPT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/TYPESCRIPT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/SAAS.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-</div>
-
-## Frameworks/Libraries i use
-<div style="display: flex;">
   <img src="images/REACT.svg" alt="" width="60" height="60">
   <img src="images/TAILWIND.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 65.svg" alt="" width="60" height="60" style="margin-left: 6px;">
