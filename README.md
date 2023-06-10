@@ -30,7 +30,11 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
   <img src="images/Group 24.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/JAVA.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 35.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-  <img src="images/Group 74.svg" alt="" width="60" height="60">
+  <img src="images/Group 74.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/Group 89.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/Group 25.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/Group 81.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/Vector (3).svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/GITHUB.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 27.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
