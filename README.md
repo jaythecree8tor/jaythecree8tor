@@ -30,6 +30,7 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
   <img src="images/Group 24.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
+
 ### **Design Tools**
 <div style=" display: flex;">
   <img src="images/Group 67.svg" alt="" width="60" height="60" style="margin-left: 6px;">
@@ -38,9 +39,8 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
 </div>
 
 ### **Mobile Development**
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/jaythecree8tor?tab=repositories
 
-)
+  [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/jaythecree8tor?tab=repositories)
 
 ## Cloud
 <div style=" display: flex;">
@@ -48,15 +48,16 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
   <img src="images/google-cloud-1.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
-## Tools I use
+## Tools i use
 <div style="display: flex;">
   <img src="images/Group 74.svg" alt="" width="60" height="60">
   <img src="images/GITHUB.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 27.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+
 </div>
 
 # Let's collaborate!!! [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jaythecree8tor)
 ![Profile views](https://gpvc.arturio.dev/jaythecree8tor)  
 
-Feel free to explore Mydemy, the groundbreaking online learning platform where students can unlock their potential in coding, software development, and engineering. With a passion for learning, a commitment to innovation, and an eye for great user experiences, I am dedicated to making Mydemy an engaging and transformative learning environment. Together, let's shape the future of education!
+turn my latest project to a platform to students to learn online and make the other words sound interrexting and fun
