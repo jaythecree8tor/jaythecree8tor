@@ -7,7 +7,7 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
 
 ### Discover Jordan's Journey 🚀
 
-- 🔭 With my current project, Mydemy, I'm revolutionizing online learning for students. Mydemy offers a comprehensive platform where students can dive into various aspects of coding, software development, and engineering. It provides an immersive and interactive learning experience tailored to the needs of aspiring developers.
+- 🔭 Working on a project, Mydemy, revolutionizing online learning for students. Mydemy offers a comprehensive platform where students can dive into various aspects of coding, software development, and engineering. It provides an immersive and interactive learning experience tailored to the needs of aspiring developers.
 
 - 💪 I'm driven by a thirst for knowledge, seeking every opportunity to learn, connect with like-minded individuals, and exchange innovative ideas. I'm deeply passionate about fostering a vibrant learning community where students can acquire new skills and collaborate with fellow learners.
 
