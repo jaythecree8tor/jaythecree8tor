@@ -15,7 +15,7 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
 
 - 🎮 During my breaks, you'll often find me engaged in thrilling Call of Duty matches under the username "@noob_HUB." It's a perfect way for me to unwind and recharge before diving back into the exciting world of development and education.
 
-### **Language & Tools**
+### **Languages & Tools**
 <div style="display: flex;">
   <img src="images/HTML5.svg" alt="" width="60" height="60">
   <img src="images/Group 83.svg" alt="" width="60" height="60" style="margin-left: 6px;">
@@ -29,6 +29,10 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
   <img src="images/Group 78.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 24.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/JAVA.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/Group 74.svg" alt="" width="60" height="60">
+  <img src="images/GITHUB.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/Group 27.svg" alt="" width="60" height="60" style="margin-left: 6px;">
+  <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
 
@@ -49,14 +53,6 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
   <img src="images/google-cloud-1.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
-## Tools i use
-<div style="display: flex;">
-  <img src="images/Group 74.svg" alt="" width="60" height="60">
-  <img src="images/GITHUB.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-  <img src="images/Group 27.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-  <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-
-</div>
 
 ## ----
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythecree8tor&show_icons=true&locale=en&layout=compact" alt="jaythecree8tor" /></p>
