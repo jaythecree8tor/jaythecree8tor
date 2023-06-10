@@ -58,6 +58,8 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
   <img src="images/google-cloud-1.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
+## ----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaythecree8tor&label=Profile%20views&color=0e75b6&style=flat" alt="jaythecree8tor" /> </p>
 
 ## ----
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythecree8tor&show_icons=true&locale=en&layout=compact" alt="jaythecree8tor" /></p>
