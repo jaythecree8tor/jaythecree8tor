@@ -56,4 +56,6 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
   <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 
 </div>
+
+## ----
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythecree8tor&show_icons=true&locale=en&layout=compact" alt="jaythecree8tor" /></p>
