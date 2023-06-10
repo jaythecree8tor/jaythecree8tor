@@ -2,16 +2,18 @@
 
 ## Who is Jordan?🤔
 ```bash
-Software Developer | User Experience Designer | A Creative
+Software Developer | Innovative User Experience Designer | Passionate Creative
 ```
 
-### What is Jordan up to🧐
+### Discover Jordan's Journey 🚀
 
-- 🔭 With my current project, developers will be able to take notes and share them with other DEVS and the community. It would contain unique characteristics needed by a developer when taking notes....
-- 💪 I'm searching for chances to learn, connect with others, and exchange ideas.
-- 🌱 I'm presently learning about full-stack web development.
-- 🎮 You can catch me on call of duty @noob_HUB:) that's where i am when i take breaks 🤭
+- 🔭 With my current project, Mydemy, I'm revolutionizing online learning for students. Mydemy offers a comprehensive platform where students can dive into various aspects of coding, software development, and engineering. It provides an immersive and interactive learning experience tailored to the needs of aspiring developers.
 
+- 💪 I'm driven by a thirst for knowledge, seeking every opportunity to learn, connect with like-minded individuals, and exchange innovative ideas. I'm deeply passionate about fostering a vibrant learning community where students can acquire new skills and collaborate with fellow learners.
+
+- 🌱 Currently, I'm fully immersed in expanding my expertise in full-stack web development. I stay ahead of the curve by mastering cutting-edge technologies and frameworks, enabling me to build a robust and user-friendly platform for Mydemy.
+
+- 🎮 During my breaks, you'll often find me engaged in thrilling Call of Duty matches under the username "@noob_HUB." It's a perfect way for me to unwind and recharge before diving back into the exciting world of development and education.
 
 ### **Web Development**
 <div style="display: flex;">
@@ -28,7 +30,6 @@ Software Developer | User Experience Designer | A Creative
   <img src="images/Group 24.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
-
 ### **Design Tools**
 <div style=" display: flex;">
   <img src="images/Group 67.svg" alt="" width="60" height="60" style="margin-left: 6px;">
@@ -37,8 +38,9 @@ Software Developer | User Experience Designer | A Creative
 </div>
 
 ### **Mobile Development**
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/jaythecree8tor?tab=repositories
 
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/jaythecree8tor?tab=repositories)
+)
 
 ## Cloud
 <div style=" display: flex;">
@@ -46,16 +48,15 @@ Software Developer | User Experience Designer | A Creative
   <img src="images/google-cloud-1.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 </div>
 
-## Tools i use
+## Tools I use
 <div style="display: flex;">
   <img src="images/Group 74.svg" alt="" width="60" height="60">
   <img src="images/GITHUB.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 27.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-
 </div>
 
 # Let's collaborate!!! [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jaythecree8tor)
 ![Profile views](https://gpvc.arturio.dev/jaythecree8tor)  
 
-
+Feel free to explore Mydemy, the groundbreaking online learning platform where students can unlock their potential in coding, software development, and engineering. With a passion for learning, a commitment to innovation, and an eye for great user experiences, I am dedicated to making Mydemy an engaging and transformative learning environment. Together, let's shape the future of education!
