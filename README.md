@@ -56,8 +56,3 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
   <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
 
 </div>
-
-# Let's collaborate!!! [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jaythecree8tor)
-![Profile views](https://gpvc.arturio.dev/jaythecree8tor)  
-
-turn my latest project to a platform to students to learn online and make the other words sound interrexting and fun
