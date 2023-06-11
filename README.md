@@ -11,7 +11,7 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
 
 - 💪 I'm driven by a thirst for knowledge, seeking every opportunity to learn, connect with like-minded individuals, and exchange innovative ideas. I'm deeply passionate about fostering a vibrant learning community where students can acquire new skills and collaborate with fellow learners.
 
-- 🌱 Currently, I'm fully immersed in expanding my expertise in full-stack web development. I stay ahead of the curve by mastering cutting-edge technologies and frameworks, enabling me to build a robust and user-friendly platform for Mydemy.
+- 🌱 Currently, I'm fully immersed in expanding my expertise in full-stack web development. I stay ahead of the curve by mastering cutting-edge technologies and frameworks, enabling me to build a robust and user-friendly platforms.
 
 - 🎮 During my breaks, you'll often find me engaged in thrilling Call of Duty matches under the username "@noob_HUB." It's a perfect way for me to unwind and recharge before diving back into the exciting world of development and education.
 
