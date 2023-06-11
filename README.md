@@ -62,7 +62,7 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaythecree8tor&label=Profile%20views&color=0e75b6&style=flat" alt="jaythecree8tor" /> </p>
 
 ## ----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jaythecree8tor=anuraghazra&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaythecree8tor&layout=compact&theme=dark)
 
 ## ----
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaythecree8tor&theme=dark&hide_border=true)](https://git.io/streak-stats)
