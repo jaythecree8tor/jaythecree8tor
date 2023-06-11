@@ -63,3 +63,6 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
 
 ## ----
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythecree8tor&show_icons=true&locale=en&layout=compact" alt="jaythecree8tor" /></p>
+
+## ----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaythecree8tor&" alt="jaythecree8tor" /></p>
