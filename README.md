@@ -34,7 +34,7 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
   <img src="images/Group 89.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 25.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 81.svg" alt="" width="60" height="60" style="margin-left: 6px;">
-  <img src="images/Vector (3).svg" alt="" width="60" height="60" style="margin-left: 6px;">
+
   <img src="images/GITHUB.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/Group 27.svg" alt="" width="60" height="60" style="margin-left: 6px;">
   <img src="images/GIT.svg" alt="" width="60" height="60" style="margin-left: 6px;">
@@ -51,6 +51,7 @@ Software Developer | Innovative User Experience Designer | Passionate Creative
 ## **Mobile Development**
 
   [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/jaythecree8tor?tab=repositories)
+    <img src="images/Vector (3).svg" alt="" width="60" height="60" style="margin-left: 6px;">
 
 ## Cloud
 <div style=" display: flex;">
