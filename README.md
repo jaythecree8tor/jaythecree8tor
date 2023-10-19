@@ -1,4 +1,4 @@
-![head](https://www.linkpicture.com/q/github-banner_5.png)
+![head](https://i.ibb.co/FBLSscb/github-banner.png)
 
 ## Who is Jordan?🤔
 ```bash
