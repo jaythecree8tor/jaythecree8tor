@@ -1,11 +1,11 @@
 ![head](https://i.ibb.co/FBLSscb/github-banner.png)
 
-## Who is Jordan?🤔
+## .
 ```bash
 Software Developer | Innovative User Experience Designer | Passionate Creative
 ```
 
-## Discover Jordan's Journey 🚀
+## .
 
 - 💪 I'm driven by a thirst for knowledge, seeking every opportunity to learn, connect with like-minded individuals, and exchange innovative ideas. I'm deeply passionate about fostering a vibrant learning community where students can acquire new skills and collaborate with fellow learners.
 
